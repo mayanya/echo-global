@@ -1,0 +1,2 @@
+# echo-global
+start test
